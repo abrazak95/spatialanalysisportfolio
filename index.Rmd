@@ -12,9 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-This portfolio was created for VIS 2128: Spatial Analysis, a course within the Harvard Graduate School of Design's Master in Urban Planning (MUP) Program. The visualizations within this portfolio demonstrate the skills I have developed in using ArcGIS and RStudio this semester.  
+This portfolio was created for VIS 2128: Spatial Analysis, a course within the Harvard Graduate School of Design's Master in Urban Planning (MUP) Program. The visualizations within this portfolio demonstrate the skills I have developed using ArcGIS and RStudio this semester.  
 
-For this portfolio, I am the products of several assignments this semester in which I was able to gather data from municipal open data portals and explore topics of interest to me. Specifically, this portfolio features maps of Tokyo (Japan), Detroit (Michigan), New Orleans (Louisiana), and my home region of New Haven County (Connecticut).  
+For this portfolio, I have included products of several assignments this semester in which I was able to gather data from municipal open data portals and explore topics of interest to me. Specifically, this portfolio features maps of Tokyo (Japan), Detroit (Michigan), New Orleans (Louisiana), and my home region of New Haven County (Connecticut).  
 
 Thank you to the VIS 2128 teaching team for your support throughout this module in learning these skills and troubleshooting issues along the way.  
 
@@ -62,7 +62,7 @@ This third map shows the number and percentage of public libraries in Detroit th
 
 ## **Accessibility**
 
-The following three maps present accessibility to evacuation locations and street car stops within the City of New Orleans. I chose to look into evacuation locations after New Orleans faced Hurricane Ida this year and in consideration of how the city is in constant need of preparing for dangerous weather events. The street car stops were interesting to explore as they represent an historical mode of transportation that has persisted within the city despite the addition of a modern bus system.  
+The following three maps present accessibility to evacuation locations and street car stops within the City of New Orleans. I chose to look into evacuation locations after New Orleans was terribly struck by Hurricane Ida this year and in consideration of how the city is in constant need of preparing for dangerous weather events. The street car stops were interesting to explore as they represent an historical mode of transportation that has persisted within the city despite the addition of a modern bus system.  
 
 **These maps demonstrate the following skills:**  
 
@@ -72,7 +72,7 @@ The following three maps present accessibility to evacuation locations and stree
 * Calculating and displaying relationships among point and polygon layers based on distance  
 * Displaying raster data on a map  
 
-This map shows the area within each of a set of cutoff walking times to the evacuation locations. The map shows the transit travel time with in 10, 20, and 30 minutes.   
+This map shows the area within each of a set of cutoff walking times to the evacuation locations. The map shows the travel time within 10, 20, and 30 minutes.   
 
 [![](thumbnails/NewOrleansEvacIso.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/NewOrleansEvacIso.pdf){target="_blank"}
 
