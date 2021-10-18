@@ -31,7 +31,7 @@ The routes show the extent to which Tokyo's highway infrastructure today has bui
 * Displaying raster data on a map  
 * Georeferencing a raster image  
 
-[![](thumbnails/Tokyo Georeference 3 - Fuel Stations and Highway Routes10241024_1.png)](https://abrazak95.github.io/portfolio//fullsize/Tokyo Georeference 3 - Fuel Stations and Highway Routes.pdf){target="_blank"}
+[![](thumbnails/Tokyo Georeference 3 - Fuel Stations and Highway Routes10241024_1.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/Tokyo Georeference 3 - Fuel Stations and Highway Routes.pdf){target="_blank"}
 
 # Detroit, Michigan
 
@@ -48,15 +48,15 @@ Specifically, I wanted to think about spatial memory and sites for holding or lo
 
 This first map shows the number of historic districts that overlap with neighborhoods in Detroit. These would be neighborhoods to focus on when thinking about efforts of historic preservation in the city at a neighborhood level.  
 
-[![](thumbnails/DetroitNeighborhoodsHistoric.png)](https://abrazak95.github.io/portfolio//fullsize/DetroitNeighborhoodsHistoric.pdf){target="_blank"}
+[![](thumbnails/DetroitNeighborhoodsHistoric.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/DetroitNeighborhoodsHistoric.pdf){target="_blank"}
 
 This second map shows neighborhoods in Detroit by the number of demolition sites with city permits. This map could be helpful in identifying which neighborhoods are experiencing higher rates of demolition than others. It could also be compared with the previous map to think of how historic districts may be in proximity to these demolition sites.  
 
-[![](thumbnails/DetroitHoodsDemolition.png)](https://abrazak95.github.io/portfolio//fullsize/DetroitHoodsDemolition.pdf){target="_blank"}
+[![](thumbnails/DetroitHoodsDemolition.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/DetroitHoodsDemolition.pdf){target="_blank"}
 
 This third map shows the number and percentage of public libraries in Detroit that are within 100 meters of a permitted demolition site. As the city thinks of preserving the history and memories of particular neighborhoods, they may consider the role that nearby libraries can play in holding those histories safely and presenting them back to the public.  
 
-[![](thumbnails/DetroitLibrarieswithinDemolition.png)](https://abrazak95.github.io/portfolio//fullsize/DetroitLibrarieswithinDemolition.pdf){target="_blank"}
+[![](thumbnails/DetroitLibrarieswithinDemolition.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/DetroitLibrarieswithinDemolition.pdf){target="_blank"}
 
 # New Orleans, Louisiana
 
@@ -74,15 +74,15 @@ The following three maps present accessibility to evacuation locations and stree
 
 This map shows the area within each of a set of cutoff walking times to the evacuation locations. The map shows the transit travel time with in 10, 20, and 30 minutes.   
 
-[![](thumbnails/NewOrleansEvacIso.png)](https://abrazak95.github.io/portfolio//fullsize/NewOrleansEvacIso.pdf){target="_blank"}
+[![](thumbnails/NewOrleansEvacIso.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/NewOrleansEvacIso.pdf){target="_blank"}
 
 This second map shows an accessibility score for street car stops in the city by converting the map's vector layer to a raster layer.  
 
-[![](thumbnails/NewOrleansRasterize.png)](https://abrazak95.github.io/portfolio//fullsize/NewOrleansRasterize.pdf){target="_blank"}
+[![](thumbnails/NewOrleansRasterize.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/NewOrleansRasterize.pdf){target="_blank"}
 
 This third map shows that same raster layer from above with color and an overlay of the city's street network to better visualize the accessibility score for street car stops.
 
-[![](thumbnails/NewOrleansRasterStreets.png)](https://abrazak95.github.io/portfolio//fullsize/NewOrleansRasterStreets.pdf){target="_blank"}
+[![](thumbnails/NewOrleansRasterStreets.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/NewOrleansRasterStreets.pdf){target="_blank"}
 
 # New Haven County, Connecticut
 
@@ -100,4 +100,4 @@ The color palette for this map was derived from a scene featuring the character 
 
 **(Click on the image below to open the interactive map!)**
 
-[![](thumbnails/New Haven County_Interactive.png)](https://abrazak95.github.io/portfolio//fullsize/Black_Boys_GNH.html){target="_blank"}
+[![](thumbnails/New Haven County_Interactive.png)](https://abrazak95.github.io/spatialanalysisportfolio/fullsize/Black_Boys_GNH.html){target="_blank"}
